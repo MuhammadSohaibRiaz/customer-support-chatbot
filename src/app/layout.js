@@ -19,10 +19,10 @@ export const metadata = {
     siteName: "SupportAI",
     images: [
       {
-        url: `${SITE_URL}/og-image.png`,
+        url: "/opengraph-image.png",
         width: 1200,
         height: 630,
-        alt: "SupportAI — Train your AI agent in exactly three steps.",
+        alt: "SupportAI — AI Customer Support Chatbot Platform Logo",
       },
     ],
     locale: "en_US",
@@ -33,7 +33,14 @@ export const metadata = {
     title: "SupportAI — AI Customer Support Chatbot Platform",
     description:
       "Create AI chatbots trained on your company data. Embed a GPT-powered widget on your website to capture leads and automate support 24/7.",
-    images: [`${SITE_URL}/og-image.png`],
+    images: [
+      {
+        url: "/twitter-image.png",
+        width: 1200,
+        height: 630,
+        alt: "SupportAI Logo",
+      }
+    ],
   },
 };
 
