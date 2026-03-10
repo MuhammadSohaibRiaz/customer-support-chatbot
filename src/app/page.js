@@ -151,7 +151,7 @@ export default function LandingPage() {
                 </div>
                 <div className="ml-4">
                   <h4 className="text-xl font-semibold text-white mb-2">Embed on your site</h4>
-                  <p className="text-slate-400">Copy and paste a simple JavaScript snippet into your website's HTML tag. You are live in seconds.</p>
+                  <p className="text-slate-400">Copy and paste a simple JavaScript snippet into your website&apos;s HTML tag. You are live in seconds.</p>
                 </div>
               </div>
             </div>
@@ -174,7 +174,7 @@ export default function LandingPage() {
                   <Logo className="w-5 h-5 text-white" />
                 </div>
                 <div className="bg-indigo-600 text-white p-4 rounded-2xl rounded-tr-none text-sm shadow-sm">
-                  We offer a 30-day money-back guarantee on all our plans! If you're not satisfied, just email our billing team and we'll process it within 24 hours. Does that help?
+                  We offer a 30-day money-back guarantee on all our plans! If you&apos;re not satisfied, just email our billing team and we&apos;ll process it within 24 hours. Does that help?
                 </div>
               </div>
             </div>
