@@ -1,6 +1,6 @@
 # Upwork Portfolio Screenshot Descriptions
 
-This document contains professional, conversion-focused descriptions for each of the screenshots in the `/screenshots` directory. You can use these descriptions directly when uploading your portfolio files to Upwork, LinkedIn, or your personal website.
+This document contains professional, conversion-focused descriptions for each of the screenshots in the `/screenshots` directory. Each description is optimized for Upwork and restricted to a 140-character maximum.
 
 ---
 
@@ -8,15 +8,16 @@ This document contains professional, conversion-focused descriptions for each of
 **File:** `landing_desktop.png`
 **Title:** SaaS Landing Page - Hero & Features
 **Description:** 
-A highly-converting, modern SaaS landing page built with Next.js and Tailwind CSS. Features an engaging gradient-mesh hero section, an instant value proposition, and a clear call-to-action to maximize sign-ups. The clean layout seamlessly explains the complex AI chatbot product in three simple steps.
+Modern SaaS landing page built with Next.js & Tailwind CSS. Features a gradient-mesh hero and clear 3-step AI product explanation.
 
 ---
+
 //forcing to push
 ### Landing Page (Mobile)
 **File:** `landing_mobile.png`
 **Title:** Mobile-Responsive SaaS Architecture
 **Description:** 
-A demonstration of the flawless mobile-first design implementation. Every padding, font size, and layout grid is dynamically calculated via Tailwind CSS to ensure the landing page looks incredibly premium on iOS and Android devices, guaranteeing a 100% accessible user experience.
+Mobile-first SaaS design using Tailwind CSS. Optimized layout for iOS and Android, ensuring a premium and accessible user experience.
 
 ---
 
@@ -24,15 +25,15 @@ A demonstration of the flawless mobile-first design implementation. Every paddin
 **File:** `dashboard_overview_desktop.png`
 **Title:** Main Dashboard & KPI Tracking
 **Description:** 
-The central command center for business owners. This dashboard features real-time Key Performance Indicator (KPI) cards and a perfectly smooth Recharts volume graph. It provides instant visibility into total chats, resolution rates, and AI engagement metrics using a beautiful dark-mode glassmorphic theme.
+Business dashboard with real-time KPI cards and Recharts graphs. Tracks total chats and AI metrics in a sleek dark-mode interface.
 
 ---
 
 ### Mobile Dashboard
 **File:** `dashboard_overview_mobile.png`
-**Title:** Responsive Admin Dashboard UI
+**Title:** Responsive Mobile Dashboard UI
 **Description:** 
-The complex web-app dashboard perfectly scaled down for mobile administration. Features a custom slide-over touch drawer for the navigation sidebar, ensuring administrators can monitor AI conversations and approve leads securely while on the go.
+Responsive mobile dashboard with custom touch navigation. Allows secure monitoring of AI chats and lead approval while on the go.
 
 ---
 
@@ -40,7 +41,7 @@ The complex web-app dashboard perfectly scaled down for mobile administration. F
 **File:** `conversations_desktop.png`
 **Title:** Real-Time Conversation Monitor
 **Description:** 
-A dual-pane conversation management interface allowing human agents to oversee the AI's real-time chats. Features search, intelligent status badges (Resolved, Open, Lead), and an interface for humans to seamlessly take over the conversation from the ChatGPT-powered assistant.
+Dual-pane AI chat monitor with status badges. Enables human agents to oversee and seamlessly take over live customer conversations.
 
 ---
 
@@ -48,7 +49,7 @@ A dual-pane conversation management interface allowing human agents to oversee t
 **File:** `analytics_desktop.png`
 **Title:** AI Performance Analytics
 **Description:** 
-A dedicated data visualization suite powered by Recharts. It tracks conversation volume and leads generated via interactive charts. It also calculates AI Confidence & Escalation rates using custom animated progress bars, giving businesses complete transparency into the AI's effectiveness.
+Data visualization suite with Recharts. Tracks chat volume, leads, and AI performance with interactive charts and progress bars.
 
 ---
 
@@ -56,7 +57,7 @@ A dedicated data visualization suite powered by Recharts. It tracks conversation
 **File:** `training_data_desktop.png`
 **Title:** RAG AI Training Interface
 **Description:** 
-The core engine of the platform where users build their custom knowledge base (RAG). The UI features intuitive tabbed navigation allowing businesses to upload raw PDFs, paste website URLs, or manually enter FAQs to instantly train their ChatGPT LLM model.
+Intuitive RAG training UI. Businesses can upload PDFs, URLs, or FAQs to instantly train their custom ChatGPT-powered AI model.
 
 ---
 
@@ -64,7 +65,7 @@ The core engine of the platform where users build their custom knowledge base (R
 **File:** `widget_settings_desktop.png`
 **Title:** Custom Chat Widget Configurator
 **Description:** 
-A dynamic settings page where businesses can customize the AI chat widget's brand color, greeting messages, and lead capture preferences. It includes a live-updating preview on the right and an instantly generated Javascript script tag for immediate embedding into any website.
+Widget configurator for custom branding and logic. Features a live preview and instant JS snippet for easy website integration.
 
 ---
 
@@ -72,7 +73,7 @@ A dynamic settings page where businesses can customize the AI chat widget's bran
 **File:** `leads_desktop.png`
 **Title:** Automated CRM Lead Capture 
 **Description:** 
-Showcasing the AI chatbot's ability to act as an automated sales agent. When users ask specific intent-based questions, the AI captures their contact information (Name, Email, Phone) and stores them natively in this secure, filterable CRM dashboard via Supabase PostgreSQL.
+Automated AI lead capture dashboard. Securely stores contact info from chats in a filterable CRM powered by Supabase PostgreSQL.
 
 ---
 
@@ -80,7 +81,7 @@ Showcasing the AI chatbot's ability to act as an automated sales agent. When use
 **File:** `signup_desktop.png` / `login_desktop.png`
 **Title:** Secure User Authentication (Supabase)
 **Description:** 
-Enterprise-grade, secure authentication flows implementing Supabase Auth. The UI is clean, minimalistic, and branded, featuring real-time client-side validation, toast notification error handling, and robust loading states for a flawless user onboarding experience.
+Secure auth flows with Supabase. Features real-time validation and branded UI for a smooth, professional user onboarding experience.
 
 ---
 
@@ -88,4 +89,4 @@ Enterprise-grade, secure authentication flows implementing Supabase Auth. The UI
 **File:** `train-agent-in-steps.PNG`
 **Title:** Interactive UI Elements
 **Description:** 
-A close-up view of the polished micro-interactions and UI details within the application. Shows the mock conversation component that beautifully illustrates how the AI wrapper contextually responds to user queries.
+Close-up of polished UI micro-interactions. Shows a mock chat component illustrating contextual AI responses to user queries.
