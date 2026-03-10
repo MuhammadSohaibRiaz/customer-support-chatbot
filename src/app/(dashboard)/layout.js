@@ -1,0 +1,14 @@
+import Sidebar from '@/components/Sidebar';
+
+export default function DashboardLayout({ children }) {
+    return (
+        <div className="flex h-screen overflow-hidden bg-slate-950 md:flex-row flex-col">
+            <Sidebar />
+            <div className="relative flex flex-col flex-1 overflow-y-auto overflow-x-hidden pt-16 md:pt-0">
+                <main className="flex-1">
+                    {children}
+                </main>
+            </div>
+        </div>
+    );
+}
