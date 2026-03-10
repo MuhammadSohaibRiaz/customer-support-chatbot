@@ -5,18 +5,19 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
+  metadataBase: new URL('https://support-chatbot-customer.vercel.app'),
   title: "AI Customer Support Chatbot Platform | SupportAI",
   description: "Create AI chatbots trained on your company data. Embed a secure, modern AI widget on your site to capture leads and automate support.",
   openGraph: {
     title: "SupportAI - Custom Customer Support Chatbots",
     description: "Automate your customer support with AI trained on your own PDFs, FAQs, and URLs.",
-    url: "https://supportai.demo", // Replace with real deployment URL
+    url: "/",
     siteName: "SupportAI",
     images: [
       {
-        url: "/logo.png", // Public folder logo reference
-        width: 800,
-        height: 600,
+        url: "/logo.png", // Next.js will resolve this against metadataBase
+        width: 1024,
+        height: 1024,
         alt: "SupportAI Logo",
       },
     ],
